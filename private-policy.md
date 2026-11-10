@@ -1,7 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Privacy Policy - Options Exposure for Fidelity</title><link rel="stylesheet" href="documents.css"></head>
-<body><main>
 <h1>Privacy Policy</h1>
 <p>Options Exposure for Fidelity. Effective November 8, 2026.</p>
 <p>This is an independent browser extension, not affiliated with, endorsed by, or produced by Fidelity Investments or Google.</p>
